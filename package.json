@@ -1,0 +1,17 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File Manager",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsyman/file-manager.git"
+  },
+  "author": "https://github.com/Tsyman",
+  "license": "ISC",
+  "homepage": "https://github.com/Tsyman/file-manager#readme"
+}
